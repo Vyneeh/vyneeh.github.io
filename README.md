@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Vyneeh's homepage 
+title: Vyneeh's webpage.
+
+description: Here I upload my content so feel free to bookmark if you like it!
 
 You can use the [editor on GitHub](https://github.com/Vyneeh/vyneeh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
